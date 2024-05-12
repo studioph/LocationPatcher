@@ -1,0 +1,12 @@
+{
+    "Nickname": "LocationPatcher",
+    "Visibility": "Visible",
+    "OneLineDescription": "Forwards Location adds/edits",
+    "LongDescription": "- Forwards the most recent addition or edit of the Location property in records.",
+    "PreferredAutoVersioning": "Default",
+    "RequiredMods": [],
+    "TargetedReleases": [
+      "SkyrimSE",
+      "SkyrimSEGog"
+    ]
+  }
